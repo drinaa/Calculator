@@ -1,0 +1,10 @@
+C:\Users\Darina\Desktop\универ\programming\lab6\bin\Debug\lab6.exe.config
+C:\Users\Darina\Desktop\универ\programming\lab6\bin\Debug\lab6.exe
+C:\Users\Darina\Desktop\универ\programming\lab6\bin\Debug\lab6.pdb
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.exe
+C:\Users\Darina\Desktop\универ\programming\lab6\obj\Debug\lab6.pdb
